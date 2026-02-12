@@ -44,4 +44,4 @@ Total records: 971 movies
 ## Author
 Gagnesh J
 
-B.Tech Data Science Student
+B.Tech Data Science
