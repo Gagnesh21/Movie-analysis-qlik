@@ -43,5 +43,3 @@ Total records: 971 movies
 3. Upload to Qlik Sense Cloud
 ## Author
 Gagnesh J
-
-B.Tech Data Science
